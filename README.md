@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudha-2005
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning web development(computer science student)
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on computer scienc students
 - 📫 How to reach me  my insta id:sudha_.j
 
 <!---
